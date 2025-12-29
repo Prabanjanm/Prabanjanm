@@ -55,28 +55,34 @@ Copy code
 ![Java](https://img.shields.io/badge/Java-E11F21?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
 
+---
+
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=900&color=0EA5E9&width=600&lines=Frontend+Stack" />
 </p>
-### 🌐 Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
 ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui)
 
+---
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=900&color=8B5CF6&width=600&lines=Backend+%26+Cloud" />
 </p>
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
-### 🧠 Tools
+---
+
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=900&color=EF4444&width=600&lines=Tools+I+Use" />
 </p>
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
@@ -87,7 +93,9 @@ Copy code
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=900&color=F97316&width=600&lines=Tech+Philosophy" />
 </p>
 ---
+
 ## 🏆 Highlights
+
 - 🥇 HackerRank Certified  
 - 🧑‍💻 Built Full-Stack & AI Automation Projects  
 - 🔐 Interested in Cybersecurity & Blockchain  
@@ -107,8 +115,8 @@ Copy code
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabanjanm&theme=tokyonight" />
 </p>
----
 
+---
 
 
 <!-- CONTACT ANIMATION -->
