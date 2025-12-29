@@ -1,19 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-font=Fira+Code
-&size=32
-&pause=1000
-&color=38B2AC
-&center=true
-&vCenter=true
-&width=750
-&lines=Hi%2C+I%27m+Prabanjan+M;
-Full+Stack+Developer;
-AI+Automation+Engineer;
-Cloud+%26+Blockchain+Enthusiast;
-CSE+Undergraduate"
-  alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1000&color=38B2AC&center=true&vCenter=true&width=750&lines=Hi%2C+I%27m+Prabanjan+M;Full+Stack+Developer;AI+Automation+Engineer;Cloud+%26+Blockchain+Enthusiast;CSE+Undergraduate" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/0?v=4" width="220" style="border-radius:50%" />
