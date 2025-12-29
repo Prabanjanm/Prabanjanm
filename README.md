@@ -45,11 +45,10 @@ Copy code
 
 ---
 
-## 🛠️ Languages & Technologies
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=900&color=22C55E&width=600&lines=Languages+%26+Technologies" />
 </p>
-### 💻 Programming
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
@@ -65,7 +64,7 @@ Copy code
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
 ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui)
 
-### 🧩 Backend & Cloud
+
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=900&color=8B5CF6&width=600&lines=Backend+%26+Cloud" />
 </p>
@@ -87,6 +86,7 @@ Copy code
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=900&color=F97316&width=600&lines=Tech+Philosophy" />
 </p>
+---
 ## 🏆 Highlights
 - 🥇 HackerRank Certified  
 - 🧑‍💻 Built Full-Stack & AI Automation Projects  
@@ -95,7 +95,6 @@ Copy code
 
 ---
 
-## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=900&color=14B8A6&width=600&lines=GitHub+Statistics" />
@@ -110,7 +109,7 @@ Copy code
 </p>
 ---
 
-## 📬 How to Reach Me
+
 
 <!-- CONTACT ANIMATION -->
 <p align="center">
