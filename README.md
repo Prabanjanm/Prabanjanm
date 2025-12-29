@@ -1,7 +1,7 @@
+<!-- MAIN ANIMATED INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1000&color=38B2AC&center=true&vCenter=true&width=750&lines=Hi%2C+I%27m+Prabanjan+M;Full+Stack+Developer;AI+Automation+Engineer;Cloud+%26+Blockchain+Enthusiast;CSE+Undergraduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=34&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Prabanjan+M;Full+Stack+Developer;AI+Automation+Engineer;Cloud+%26+Blockchain+Enthusiast;CSE+Undergraduate" />
 </p>
-
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/0?v=4" width="220" style="border-radius:50%" />
@@ -13,19 +13,23 @@
 
 ---
 
+
+
+---
+
 ┌──────────────────────────────────────────────────────────────┐
-│ Hey There! 👋 │
-│ │
-│ Full Stack Visionary crafting seamless digital experiences │
-│ where code meets creativity ⚡ │
-│ │
-│ I engineer AI-powered solutions, scalable apps, │
-│ automation workflows & cloud-native systems. │
-│ │
-│ CSE Student | HackerRank Certified | Tech Enthusiast │
-│ │
-│ Let’s build the future together 🚀 │
-│ Surpass your limits. Right here. Right now. │
+│ Hey There! 👋                                                │
+│                                                              │
+│ Full Stack Visionary crafting seamless digital experiences   │
+│ where code meets creativity ⚡                               │
+│                                                              │
+│ I engineer AI-powered solutions, scalable apps,              │
+│ automation workflows & cloud-native systems.                 │
+│                                                              │
+│ CSE Student | HackerRank Certified | Tech Enthusiast         │
+│                                                              │
+│ Let’s build the future together 🚀                           │
+│ Surpass your limits. Right here. Right now.                  │
 └──────────────────────────────────────────────────────────────┘
 
 yaml
