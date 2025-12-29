@@ -1,9 +1,23 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/0?v=4" width="220" style="border-radius:50%" />
+  <img src="https://readme-typing-svg.demolab.com?
+font=Fira+Code
+&size=32
+&pause=1000
+&color=38B2AC
+&center=true
+&vCenter=true
+&width=750
+&lines=Hi%2C+I%27m+Prabanjan+M;
+Full+Stack+Developer;
+AI+Automation+Engineer;
+Cloud+%26+Blockchain+Enthusiast;
+CSE+Undergraduate"
+  alt="Typing SVG" />
 </p>
 
-<h1 align="center">Prabanjan M</h1>
-<h3 align="center">Full Stack | AI Automation | Cloud & Blockchain</h3>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/0?v=4" width="220" style="border-radius:50%" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Prabanjanm&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -26,6 +40,8 @@
 │ Surpass your limits. Right here. Right now. │
 └──────────────────────────────────────────────────────────────┘
 
+yaml
+Copy code
 
 ---
 
